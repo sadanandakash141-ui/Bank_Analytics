@@ -89,5 +89,5 @@ Renters and mortgage holders make up the vast majority of borrowers compared to 
 Dashboard:
 
 PowerBI:
-![preview]()
+![preview](https://github.com/sadanandakash141-ui/Bank_Analytics/blob/main/Bank_Loan_Analysis%20Dashboard.png)
 
